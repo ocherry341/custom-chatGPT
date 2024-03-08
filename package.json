@@ -1,10 +1,11 @@
 {
-  "name": "customGPT",
+  "name": "custom-gpt",
   "version": "1.0.0",
+  "homepage": "https://ocherry341.github.io/custom-chatgpt",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --localize",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },

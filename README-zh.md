@@ -9,7 +9,7 @@
 基于ChatGPT API开发的纯前端应用
 
 ## 在线查看
-https://www.customgpt.top/zh-CN/
+https://ocherry341.github.io/custom-chatgpt/zh/
 
 ## 功能特性
 

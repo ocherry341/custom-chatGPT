@@ -14,9 +14,9 @@
       "sourceRoot": "src",
       "prefix": "app",
       "i18n": {
-        "sourceLocale": "zh-CN",
+        "sourceLocale": "zh",
         "locales": {
-          "en-US": {
+          "en": {
             "translation": "src/locale/messages.en-US.arb"
           }
         }
@@ -25,7 +25,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/chatbot",
+            "outputPath": "dist",
+            "baseHref": "/custom-chatgpt/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [

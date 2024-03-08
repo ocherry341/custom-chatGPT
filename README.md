@@ -9,7 +9,7 @@
 A front-end application developed based on ChatGPT API.
 
 ## Online Preview
-https://www.customgpt.top/
+https://ocherry341.github.io/custom-chatgpt/en/
 
 ## Features
 
